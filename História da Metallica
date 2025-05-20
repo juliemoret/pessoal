@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Projeto Metallica</title>
+<style>
+table{
+border: 10px dashed pink;
+padding: 5px;
+}
+th{
+background-color: RosyBrown;
+color: Black;
+padding: 5px;
+}
+tr{
+border: 1px solid pink;
+padding: 5px;
+}
+td{
+border: 1px solid RosyBrown;
+padding: 5xp;
+color: black;
+}
+h1{
+color: Black;
+text-align: center;
+font: italic 40px Snell Roundhand, cursive;
+}
+
+
+
+
+P{
+font-family:courier, arial, helvetica;
+color: black;
+font-weight: bold;
+font-size: 20px;
+}
+body{
+background-color: Linen;
+}
+img{
+width:300px;
+height:200
+}
+</style>
+</head>
+<body>
+<a href="/index.html">Página Principal</a>
+<h1>Metallica</h1>
+<P>Lista sobre os membros</P>
+<table>
+<tr>
+<th>Nome</th>
+<th>Sobrenome</th>
+<th>Cidade</th>
+<th>Estado</th>
+</tr>
+<tr>
+<td>James</td>
+<td>Hetfield</td>
+<td>Downey</td>
+<td>Califórnia</td>
+<tr>
+<td>Lars</td>
+<td>Ulrich</td>
+<td>Gentofte</td>
+<td>Dinamarca</td>
+</tr>
+<tr>
+<td>Kirk</td>
+<td>Hammet</td>
+<td>São Francisco</td>
+<td>Califórnia</td>
+</tr>
+<tr>
+<td>Rob</td>
+<td>Trujillo</td>
+<td>Santa Mônica</td>
+<td>Califórnia</td>
+</tr>
+</table>
+<p>Lista dos membros.</p>
+<table>
+<tr>
+<th>Nome</th>
+<th>Aparência</th>
+<th>link</th>
+</tr>
+<tr>
+<td>James Hetfield</td>
+<td><img src="https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Santa-Catarina-1111x740.jpg"></td>
+<td><a href="https://www.sc.gov.br/">LINK SC</a></td>
+</tr>
+<tr>
+<td>Espírito Santo</td>
+<td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79h9qEa6je48tK4qd_dphofq2MEwYx30UyA&s"></td>
+<td><a href="https://www.es.gov.br/">Link Espírito Santo</th>
+</tr>
+<tr>
+<td>Rio de Janeiro</td>
+<td><img src="https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Rio-de-Janeiro-1111x740.jpg"</td>
+<td><a href="https://www.rj.gov.br/">Link RJ</a></td>
+</tr>
+<tr>
+<td>Rio de Janeiro</td>
+<td><img src="https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Rio-de-Janeiro-1111x740.jpg"</td>
+<td><a href="https://www.rj.gov.br/">Link RJ</a></td>
+</tr>
+</table>
+</body>
+</html>
+
+
