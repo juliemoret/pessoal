@@ -37,7 +37,7 @@ font-weight: bold;
 font-size: 20px;
 }
 body{
-background-color: Linen;
+background-color: Linen(236, 230, 250);
 }
 img{
 width:300px;
@@ -89,23 +89,23 @@ height:200
 </tr>
 <tr>
 <td>James Hetfield</td>
-<td><img src="https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Santa-Catarina-1111x740.jpg"></td>
-<td><a href="https://www.sc.gov.br/">LINK SC</a></td>
+<td><img src=""></td>
+<td><a href="https://www.metallica.com/?srsltid=AfmBOoo3jfFW2D_NCed5sRyFGpud20Gy5gsUmNProRCehSvCewE7PlP0">LINK METALLICA</a></td>
 </tr>
 <tr>
-<td>Espírito Santo</td>
+<td>Lars Ulrich</td>
 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79h9qEa6je48tK4qd_dphofq2MEwYx30UyA&s"></td>
-<td><a href="https://www.es.gov.br/">Link Espírito Santo</th>
+<td><a href="https://www.metallica.com/?srsltid=AfmBOoo3jfFW2D_NCed5sRyFGpud20Gy5gsUmNProRCehSvCewE7PlP0">Link METALLICA</a></td>
 </tr>
 <tr>
-<td>Rio de Janeiro</td>
-<td><img src="https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Rio-de-Janeiro-1111x740.jpg"</td>
-<td><a href="https://www.rj.gov.br/">Link RJ</a></td>
+<td>Kirk Hammet</td>
+<td><img src="https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Rio-de-Janeiro-1111x740.jpg"></td>
+<td><a href="https://www.metallica.com/?srsltid=AfmBOoo3jfFW2D_NCed5sRyFGpud20Gy5gsUmNProRCehSvCewE7PlP0>Link METALLICA</a></td>
 </tr>
 <tr>
-<td>Rio de Janeiro</td>
-<td><img src="https://www.eccobandeiras.com.br/image/cache/catalog/antigas/Rio-de-Janeiro-1111x740.jpg"</td>
-<td><a href="https://www.rj.gov.br/">Link RJ</a></td>
+<td>Rob Trujillo</td>
+<td><img src=""</a></td>
+<td><a href="https://www.metallica.com/?srsltid=AfmBOoo3jfFW2D_NCed5sRyFGpud20Gy5gsUmNProRCehSvCewE7PlP0">Link METALLICA</a></td>
 </tr>
 </table>
 </body>
